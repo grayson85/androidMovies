@@ -3,6 +3,8 @@
 ## 项目地址：[https://github.com/shipinbaoku/FlutterMovies](https://github.com/shipinbaoku/FlutterMovies)
 欢迎Star！给点动力！
 
+[下载apk体验](http://qd.shouji.qihucdn.com/nqapk/sjzs2_100000003_5f1afd174de9228467/200929/9ae1eb448c28e257b4a1ad5a2179a44c/appstore-300090091.apk)
+
 ## 多图杀猫，直接展示页面
 
 ![首页截图](https://img-blog.csdnimg.cn/20201008090515193.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDA3NTk1Mg==,size_16,color_FFFFFF,t_70#pic_center)
