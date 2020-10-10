@@ -39,13 +39,12 @@
 
 
 ## 调试注意
-android目录下新建 key.properties文件配置你自己的签名文件信息，如下格式
-**
-storePassword=******
-keyPassword=******
-keyAlias=别名
-storeFile=E:/key.jks (你自己的签名文件路径)
-**
+android目录下新建 key.properties文件配置你自己的签名文件信息，如下格式:
+- storePassword=******
+-keyPassword=******
+- keyAlias=别名
+- storeFile=E:/key.jks (你自己的签名文件路径)
+
 
 
 ## 任何调试问题请提交issue或者入群交流：
